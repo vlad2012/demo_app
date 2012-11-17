@@ -23,7 +23,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-
+gem 'therubyracer'
 
 group :production do
   gem 'pg', '0.12.2'
